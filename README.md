@@ -157,6 +157,10 @@ int main(int argc, char *argv[]) {
 ![Alt text](./ex07-2.png)
 
 
+![Screenshot 2025-05-08 112715](https://github.com/user-attachments/assets/ba3d55c3-ec80-4838-904d-814f532acdbf)
+![Screenshot 2025-05-08 112736](https://github.com/user-attachments/assets/9a92aaca-3e67-4642-82df-d3cf735a3261)
+
+![Screenshot 2025-05-08 112751](https://github.com/user-attachments/assets/bed6c9c9-5958-4eb6-af19-64b4e05ec54b)
 
 # RESULT:
 The programs are executed successfully.
